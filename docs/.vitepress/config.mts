@@ -17,6 +17,35 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/hackathonweekly/hackathonweekly' }
+    ],
+
+    sidebar: [
+      {
+        text: '主要文档',
+        items: [
+          { text: '愿景和使命', link: '/docs/1_vision_and_mission' },
+          { text: '组织架构', link: '/docs/2_organization' },
+          { text: '成员制度', link: '/docs/3_membership' },
+          { text: '活动形式', link: '/docs/4_activities' },
+          { text: '俱乐部制度', link: '/docs/5_club_system' },
+          { text: '运营方式', link: '/docs/5_operations' },
+          { text: '激励机制', link: '/docs/6_incentives' },
+          { text: '孵化器', link: '/docs/7_incubator' },
+          { text: '文化建设', link: '/docs/8_culture' },
+          { text: '对外合作', link: '/docs/9_cooperation' },
+          { text: '附录', link: '/docs/10_appendix' },
+        ]
+      },
+      {
+        text: '其他文档',
+        items: [
+          { text: '发展阶段', link: '/docs/development_phases' },
+          { text: '基础模型', link: '/docs/foundation_model' },
+          { text: '网站规划', link: '/docs/website_plan' },
+          { text: 'FAQ', link: '/FAQ' },
+          { text: '关于我们', link: '/about-us' }
+        ]
+      }
     ]
   }
 })
