@@ -109,6 +109,6 @@
 - 推动技术创新发展
 
 ## 相关制度
-- [俱乐部制度](5_club_system.md)
+- [俱乐部制度](club_system.md)
 - [会员制度](3_membership.md)
 - [活动体系](4_activities.md)
