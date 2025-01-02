@@ -110,5 +110,5 @@
 
 ## 相关制度
 - [俱乐部制度](club_system.md)
-- [会员制度](3_membership.md)
-- [活动体系](4_activities.md)
+- [会员制度](membership.md)
+- [活动体系](activities.md)
